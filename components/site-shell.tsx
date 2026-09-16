@@ -3,8 +3,8 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-const WA_NUMBER  = '18166144594'
-const WA_DISPLAY = '+1 (816) 614-4594'
+const WA_NUMBER  = '12368606154'
+const WA_DISPLAY = '+1 (236) 860-6154'
 const TG_USER    = '@realjay04'
 const TG_HREF    = 'https://t.me/realjay04'
 const MAIL       = 'orders.jaycards@gmail.com'
@@ -149,7 +149,7 @@ export function Footer() {
           <div className="footer-col footer-about">
             <h4>About</h4>
             <p><strong>Company:</strong> JayCards</p>
-            <p><strong>WhatsApp:</strong> +1 (816) 614-4594</p>
+            <p><strong>WhatsApp:</strong> +1 (236) 860-6154</p>
             <p><strong>Telegram:</strong> @realjay04</p>
             <p><strong>Email:</strong> orders.jaycards@gmail.com</p>
             <div className="footer-social">
