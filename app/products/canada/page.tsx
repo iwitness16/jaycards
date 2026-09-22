@@ -3,13 +3,13 @@ import Link from 'next/link'
 import { Footer, PageHeader, SiteHeader } from '@/components/site-shell'
 
 const canadaProducts = [
-  { name: 'British Columbia Fake ID', img: '/images/britishcolumbia.jpg' },
-  { name: 'Ontario Fake ID',          img: '/images/ontario.jpg' },
-  { name: 'Quebec Fake ID',           img: '/images/quebec.jpg' },
-  { name: 'Alberta Fake ID',          img: '/images/canada.jpg' },
-  { name: 'Manitoba Fake ID',         img: '/images/canada.jpg' },
-  { name: 'Nova Scotia Fake ID',      img: '/images/canada.jpg' },
-  { name: 'Saskatchewan Fake ID',     img: '/images/canada.jpg' },
+  { name: 'Quebec Fake ID',                        img: 'https://idlord.ph/image/webp/cache/catalog/products/quebec-1-630x420h.webp' },
+  { name: 'British Columbia Fake ID',              img: 'https://idlord.ph/image/webp/cache/catalog/products/british_columbia-1-630x420h.webp' },
+  { name: 'British Columbia Fake ID (2025)',        img: 'https://idlord.ph/image/webp/cache/catalog/products/1img_20251112_095406-630x420.webp' },
+  { name: 'Saskatchewan Fake ID',                  img: 'https://idlord.ph/image/webp/cache/catalog/products/new/saskatchewan1-630x420.webp' },
+  { name: 'Manitoba Fake ID (2026)',                img: 'https://idlord.ph/image/webp/cache/catalog/products/img_20260302_104011-630x420.webp' },
+  { name: 'Alberta Fake DL (2026)',                 img: 'https://idlord.ph/image/webp/cache/catalog/products/img_20260423_151420-%E4%B8%B4%E6%97%B6_%E6%8B%B7%E8%B4%9D-630x420.webp' },
+  { name: 'Ontario Fake ID (2025)',                 img: 'https://idlord.ph/image/webp/cache/catalog/products/df7f882d306a64eb4b56cc5394b4262-630x420.webp' },
 ]
 
 function ProductCard({ name, img }: { name: string; img: string }) {
