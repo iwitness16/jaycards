@@ -62,7 +62,7 @@ export default function AboutPage() {
           </p>
           <p>
             If in doubt, reach out to us directly via our official Telegram (<strong>@realjay04</strong>) or WhatsApp
-            (<strong>+1 (943) 295-6244</strong>) before placing an order.
+            (<strong>+1 (618) 517-4191</strong>) before placing an order.
           </p>
 
           <h2>Contact Us</h2>
